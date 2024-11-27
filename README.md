@@ -36,32 +36,32 @@ Hier ist eine kurze Zusammenfassung der Hauptfunktionen:
 
 1. Anlegen einer Ressourcengruppe
 
-   ![image](https://github.com/user-attachments/assets/927bdd64-8aa1-4949-9d8f-67dee6a51268)
+   ![image](https://github.com/user-attachments/assets/a8b65b02-5dc0-4c0b-86ee-43c9b1eabbdb)
 
-2. Anlegen einer Instance für die Azure Document Intelligence
+3. Anlegen einer Instance für die Azure Document Intelligence
 
-   ![image](https://github.com/user-attachments/assets/e49ab16d-cbc2-4395-8fae-0764d662a237)
+   ![image](https://github.com/user-attachments/assets/0615a53d-a830-4120-a97f-19d324afdd52)
 
 ### Konfiguration Azure Key und Endpoint im AzureFormRecognizer
 
 Übernahme des Keys und des Endpoints in die Konfiguration
 
-   ![image](https://github.com/user-attachments/assets/a15510e1-c02c-431b-9946-643d175ccbcc)
+   ![image](https://github.com/user-attachments/assets/b4ab57d9-3028-4c8b-aa33-b1556c22cf0d)
 
 ### Erforderliche Pakete
 
-![image](https://github.com/user-attachments/assets/2abdf11c-a3a5-4297-bb7b-b8fb33b2e1b5)
+![image](https://github.com/user-attachments/assets/161094e6-859c-4361-8ef5-270a83f3a5a2)
 
-![image](https://github.com/user-attachments/assets/74fed754-819c-4e41-8107-d58e0a8d25d6)
+![image](https://github.com/user-attachments/assets/3406bb88-b804-47d9-80e4-71b48ce225dd)
 
 Bei der Verwendung der jeweiligen Pakete sind die entsprechenden Lizenzvereinbarungen zu berücksichtigen.
 
 
 ## Programmaufbau
 
-![image](https://github.com/user-attachments/assets/a77d134d-5c36-4c21-99d1-2dd8787b35a1)
+![image](https://github.com/user-attachments/assets/3b112dbc-0f51-4f01-844a-64c0a4004b1c)
 
-![image](https://github.com/user-attachments/assets/a100cd58-7a83-41ca-9ce9-ea2c035e30bc)
+![image](https://github.com/user-attachments/assets/e9ed6af6-2ffa-4ccc-ae99-5e8929a645a3)
 
 
 ## Beispiele
