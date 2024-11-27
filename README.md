@@ -68,27 +68,26 @@ Bei der Verwendung der jeweiligen Pakete sind die entsprechenden Lizenzvereinbar
 
 Programmstart
 
-![image](https://github.com/user-attachments/assets/09c4655f-9e31-4942-a744-17d05094e0cf)
+![image](https://github.com/user-attachments/assets/079ea981-3943-48ef-92fe-f12f863702cf)
 
 Datei auswählen
 
-![image](https://github.com/user-attachments/assets/ad8f5bab-4178-40db-a2dc-14a3874690ee)
+![image](https://github.com/user-attachments/assets/67edb1cc-1bc5-4a53-808b-d4dba06f7153)
 
-![image](https://github.com/user-attachments/assets/acf1a08b-e2da-4020-b82e-994621bca500)
+![image](https://github.com/user-attachments/assets/a50474c3-b27c-4054-99ac-f473467ae4d0)
 
 Create searchable PDF
 
 Hinter dem Button erscheint nach dem Generieren des PDF's ein Häkchen...
 
-![image](https://github.com/user-attachments/assets/69a0061f-1f20-41f8-aa2d-3f087d4cc78e)
+![image](https://github.com/user-attachments/assets/2829f230-cc3e-48a9-a307-8401053ae356)
 
 Open Result
 
-![image](https://github.com/user-attachments/assets/2c37c3b7-8afc-4036-a370-6768c93ee5ae)
+![image](https://github.com/user-attachments/assets/913d7645-0b47-44ea-88bf-d2295055f40d)
 
 Searchable PDF
 
-![image](https://github.com/user-attachments/assets/ba1f13ef-a012-4c72-a3f0-183b4bb9f445)
-
+![image](https://github.com/user-attachments/assets/6f61a23e-a914-4b9a-ae7a-ebf3a112c38d)
 
 
