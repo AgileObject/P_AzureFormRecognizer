@@ -2,7 +2,7 @@
 
 ## Allgemein - Was ist der AzureFormRecognizer
 
-Dieses Programm ist eine ganze simple Windows Forms-Anwendung, die die ***Azure Form Recognizer API*** (***Azure Document Intelligence***) verwendet, um Text aus einem ausgewählten Dokument zu extrahieren und diesen Text in ein durchsuchbares PDF-Dokument (***searchable PDF***) zu konvertieren.
+Dieses Programm ist eine ganz simple Windows Forms-Anwendung, die die ***Azure Form Recognizer API*** (***Azure Document Intelligence***) verwendet, um Text aus einem ausgewählten Dokument zu extrahieren und diesen Text in ein durchsuchbares PDF-Dokument (***searchable PDF***) zu konvertieren.
 
 Hier ist eine kurze Zusammenfassung der Hauptfunktionen:
 1.	Initialisierung:
